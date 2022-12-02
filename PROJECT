@@ -1,0 +1,6 @@
+domain: com.bolingcavalry
+layout:
+- go.kubebuilder.io/v3
+projectName: kubebuilder-demo
+repo: demo
+version: "3"
